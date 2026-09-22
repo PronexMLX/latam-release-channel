@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "product": "SCRIPT LATAM",
+  "channel": "stable",
+  "version": "V2.5",
+  "published": true,
+  "package": null,
+  "sha256": null,
+  "minimum_updater": 1,
+  "changelog": "changelog.txt"
+}

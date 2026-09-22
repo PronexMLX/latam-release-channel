@@ -1,0 +1,14 @@
+SCRIPT LATAM V2.5 | NOVEDADES
+
+- Controlador de cuentas SSH/SSL/DROPBEAR revisado y mejorado.
+- Instaladores y controladores de protocolos auditados.
+- V2Ray/Xray TLS integrado y revisado.
+- UDP LATAM, WireGuard, SlowDNS, BHTTP y Proxy LATAM revisados.
+- Bot Telegram de cuentas mejorado.
+- Sistema de autorizacion de usuarios integrado.
+- Backup y restauracion de cuentas mejorados.
+- Firewall LATAM y restauracion de reglas revisados.
+- Validacion de entradas y navegacion de menus mejoradas.
+- Timers y servicios LATAM revisados.
+- Limpieza de residuos historicos y optimizacion general.
+- Identidad visual unificada para V2.5.
