@@ -2,10 +2,10 @@
   "schema": 1,
   "product": "SCRIPT LATAM",
   "channel": "stable",
-  "version": "V2.5.1",
+  "version": "V2.5",
   "published": true,
-  "package": "releases/V2.5.1.tar.gz",
-  "sha256": "1a21f798e9cb6e65183b086909db1d154b823646968854426b910d9095cf6279",
+  "package": null,
+  "sha256": null,
   "minimum_updater": 1,
   "changelog": "changelog.txt"
 }

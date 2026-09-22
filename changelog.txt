@@ -1,5 +1,4 @@
-SCRIPT LATAM V2.5.1 | NOVEDADES
-
-- Primera actualizacion de mantenimiento del canal V2.5.
-- Activacion del sistema de updates incrementales V2.5.x.
-- Prueba controlada del instalador seguro de actualizaciones.
+SCRIPT LATAM V2.5 | NOVEDADES
+- Version estable actual de SCRIPT LATAM.
+- Canal oficial de actualizaciones habilitado.
+- Actualizaciones incrementales preparadas para futuras versiones.
